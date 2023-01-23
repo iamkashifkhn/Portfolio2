@@ -5,9 +5,9 @@
   scroll-behavior: smooth;
   font-family: 'Montserrat';
 }
-body {
+/* body {
   background-color: var(--color-bg);
-}
+} */
 a{
   color: unset;
   text-decoration: none;
